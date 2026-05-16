@@ -6,6 +6,7 @@ function App() {
     <div className='App'>
       <h1>Welcome to React</h1>
       <p>This is a simple React application to test ci cd pipeline.</p>
+      <p>testing the ci cd pipeline</p>
     </div>
   )
 }
